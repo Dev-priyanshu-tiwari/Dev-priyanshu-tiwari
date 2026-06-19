@@ -13,14 +13,14 @@ I'm a Computer Science undergrad who builds full-stack web apps end-to-end — f
 
 ---
 
-### 🔭 Currently
+### Currently
 - Working on the **BLW Expenditure Analysis Dashboard** — adding an AI insights module and forecasting engine
 - Practicing **DSA** and going deeper into **React.js fundamentals**
 - Using **Claude, ChatGPT & Gemini** daily as part of my actual dev workflow, not just for novelty
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend**
 `JavaScript (ES6+)` `TypeScript` `React.js` `HTML5` `CSS3 (Flexbox, Grid, Animations)` `Tailwind CSS` `MUI` `shadcn/ui`
@@ -36,7 +36,7 @@ I'm a Computer Science undergrad who builds full-stack web apps end-to-end — f
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 **[BLW Expenditure Analysis Dashboard](https://github.com/Dev-priyanshu-tiwari/BLW-EDP-Project-)**
 Full-stack MERN app built during my Indian Railways internship — digitises Purchase Order & CO6 contractor-bill tracking with live charts and an AI-assisted audit insights module.
