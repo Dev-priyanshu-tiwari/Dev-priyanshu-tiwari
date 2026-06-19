@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Priyanshu Tiwari 👋</h1>
+<h1 align="center">Hi, I'm Priyanshu Tiwari </h1>
 <h3 align="center">Web Developer | MERN Stack | 2nd Year CSE Student</h3>
 
 <p align="center">
