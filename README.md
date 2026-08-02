@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Priyanshu Tiwari </h1>
-<h3 align="center">Web Developer | MERN Stack | 2nd Year CSE Student</h3>
+<h3 align="center">Web Developer | MERN Stack | 3rd Year CSE Student</h3>
 
 <p align="center">
 I'm a Computer Science undergrad who builds full-stack web apps end-to-end — from responsive UIs to REST APIs to AI-powered features. I recently completed a Web Development internship with Indian Railways (BLW), where I built a production-style MERN dashboard from scratch. I like shipping things that actually work, not just demos.
